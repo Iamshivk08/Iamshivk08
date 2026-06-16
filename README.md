@@ -57,7 +57,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-## 🗄️ Database
+## 🗄️ Database ##
 <p>
 <img src="https://skillicons.dev/icons?i=oracle" />
 </p>
