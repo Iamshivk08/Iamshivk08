@@ -174,29 +174,6 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Total%20Contributions-66-blue?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Longest%20Streak-0%20Days-orange?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Current%20Streak-0%20Days-green?style=for-the-badge&logo=github"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 📚 Currently Learning
 
