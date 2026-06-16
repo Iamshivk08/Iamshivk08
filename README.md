@@ -108,7 +108,6 @@ I enjoy solving real-world problems through programming and continuously improvi
 </p>
 
 ---
----
 # 📂 My files
 
 <p align="center">
@@ -118,7 +117,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 </a>
 
 </p>
-
+---
 # 🤝 Connect With Me
 
 <p align="left">
