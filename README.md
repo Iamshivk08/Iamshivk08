@@ -130,11 +130,14 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-# ⭐ Profile Visitors
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+
 </p>
+
 
 ---
 
