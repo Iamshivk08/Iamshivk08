@@ -1,241 +1,149 @@
-# Hi 👋, I'm BALA SIVA KATAM
-
+Hi 👋, I'm BALA SIVA KATAM
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋+I'm+Bala+Siva+Katam;Java+Developer;Full+Stack+Developer;Passionate+Software+Engineer" />
 </p>
-
 ---
-
-## 👨‍💻 About Me
-
-I am **Bala Siva Katam**, a passionate software developer interested in building efficient, scalable, and user-friendly applications.
-
+👨‍💻 About Me
+I am Bala Siva Katam, a passionate software developer interested in building efficient, scalable, and user-friendly applications.
 I enjoy solving real-world problems through programming and continuously improving my skills in modern technologies.
-
-- 🌱 Currently learning **Advanced Java & Full Stack Development**
-- 💻 Interested in **Backend Development and Web Applications**
-- 🚀 Passionate about creating clean and efficient software solutions
-- 📚 Always exploring new technologies and improving my coding skills
-
+🌱 Currently learning Advanced Java & Full Stack Development
+💻 Interested in Backend Development and Web Applications
+🚀 Passionate about creating clean and efficient software solutions
+📚 Always exploring new technologies and improving my coding skills
 ---
-
-# 🛠️ Technical Skills
-
-## 💻 Programming Languages
-
+🛠️ Technical Skills
+💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
-
-- ☕ Java
-
+☕ Java
 ---
-
-## 🌐 Frontend Development
-
+🌐 Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
-- HTML5
-- CSS3
-- JavaScript
-
+HTML5
+CSS3
+JavaScript
 ---
-
-## ⚙️ Backend Development
-
+⚙️ Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
-
-- Spring Framework
-- Spring Boot
-- Node.js
-
+Spring Framework
+Spring Boot
+Node.js
 ---
-
-## 🗄️ Database
-
+🗄️ Database
 <p>
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/>
 </p>
-
-- Oracle SQL
-- Database Management
-- SQL Queries
-
+Oracle SQL
+Database Management
+SQL Queries
 ---
-
-## 🔧 Tools & Technologies
-
+🔧 Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
-
-- Git
-- GitHub
-- Visual Studio Code
-- IntelliJ IDEA
-
+Git
+GitHub
+Visual Studio Code
+IntelliJ IDEA
 ---
-
-# 🚀 Featured Projects
-
-## 🏦 Banking Management System
-
-A full-stack banking application developed using **Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL**.
-
-### Technologies Used:
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄️ Oracle SQL
-
-🔗 **Repository:**
-
+🚀 Featured Projects
+🏦 Banking Management System
+A full-stack banking application developed using Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL.
+Technologies Used:
+☕ Java
+🌱 Spring Boot
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript
+🗄️ Oracle SQL
+🔗 Repository:
 <a href="https://github.com/Iamshivk08">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
 ---
-
-## 📚 Attendance Tracker System
-
+📚 Attendance Tracker System
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
-
-### Technologies Used:
-
-- HTML5
-- CSS3
-- JavaScript
-- Local Storage
-
-🌐 **Live Demo:**
-
+Technologies Used:
+HTML5
+CSS3
+JavaScript
+Local Storage
+🌐 Live Demo:
 <a href="https://iamshivk08.github.io/Attendence-tracker/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge&logo=googlechrome"/>
 </a>
-
 <br>
-
-🔗 **Repository:**
-
+🔗 Repository:
 <a href="https://github.com/Iamshivk08/Attendence-tracker">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 </a>
-
 ---
-
-# 📂 My Repositories
-
+📂 My Repositories
 <p align="center">
-
 <a href="https://github.com/Iamshivk08?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
-
 ---
-
-# 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight"/>
-
 </p>
-
 ---
-
-# 📈 GitHub Contribution Graph
-
+📈 GitHub Contribution Graph
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true"/>
-
 </p>
-
 ---
-
-# 🔥 GitHub Streak
-
+🔥 GitHub Streak
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 ---
-
-# 🏆 GitHub Achievements
-
+🏆 GitHub Achievements
 <h2 align="center">🏆 GitHub Achievements & Statistics</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
-</p>
-
 ---
-
-# 📚 Currently Learning
-
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- 🔗 REST API Development
-- 🗄️ Database Optimization
-- ☁️ Cloud Deployment
-- 🤖 AI Integration
-
+📚 Currently Learning
+☕ Advanced Java
+🌱 Spring Boot
+🔗 REST API Development
+🗄️ Database Optimization
+☁️ Cloud Deployment
+🤖 AI Integration
 ---
-
-# 🤝 Connect With Me
-
+🤝 Connect With Me
 <p align="center">
-
 <a href="mailto:shivkatam08@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/Iamshivk08">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
 ---
-
-# 👀 Profile Views
-
+👀 Profile Views
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Iamshivk08&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
 </p>
-
 ---
-
 <p align="center">
-
 ✨ Thanks for visiting my profile! Let's build something amazing together 🚀
-
 </p>
-
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 </p>
