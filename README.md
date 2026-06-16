@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm BALA SIVA KATAM
 
 <p align="center">
@@ -58,6 +56,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 ---
 
 ## 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
@@ -65,7 +64,9 @@ I enjoy solving real-world problems through programming and continuously improvi
 - Oracle SQL
 - Database Management
 - SQL Queries
+
 ---
+
 ## 🔧 Tools & Technologies
 
 <p>
@@ -79,11 +80,27 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
+
 </p>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -95,7 +112,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-## 📈 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -108,16 +125,47 @@ I enjoy solving real-world problems through programming and continuously improvi
 </p>
 
 ---
-# 📂 My files
+
+# 📂 My Repositories
 
 <p align="center">
 
-<a href="https://github.com/Iamshivk08/">
+<a href="https://github.com/Iamshivk08?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 ---
+
+# 🚀 Featured Projects
+
+### 🏦 Banking Management System
+
+A full-stack banking application developed using Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL.
+
+**Technologies:**
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- Oracle SQL
+
+---
+
+### 📚 Attendance Tracker System
+
+A web-based attendance management system with dashboard analytics and record management.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- Database
+
+---
+
 # 🤝 Connect With Me
 
 <p align="left">
@@ -146,12 +194,11 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 </p>
 
-
 ---
-<p align = "center">
-  ✨ Thanks for visiting my profile! Let's build something amazing together 🚀
-</p>
 
+<p align="center">
+✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+</p>
 
 <p align="center">
 
