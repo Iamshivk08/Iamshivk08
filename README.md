@@ -134,7 +134,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Iamshivk08&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 </p>
 
