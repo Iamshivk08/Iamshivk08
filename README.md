@@ -80,6 +80,48 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
+# 🚀 Featured Projects
+
+## 🏦 Banking Management System
+
+A full-stack banking application developed using Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL.
+
+**Technologies Used:**
+
+- Java
+- Spring Boot
+- HTML5
+- CSS3
+- JavaScript
+- Oracle SQL
+
+---
+
+## 📚 Attendance Tracker System
+
+A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
+
+**Technologies Used:**
+
+- HTML
+- CSS
+- JavaScript
+- Database
+
+---
+
+# 📂 My Repositories
+
+<p align="center">
+
+<a href="https://github.com/Iamshivk08?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -126,49 +168,19 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-# 📂 My Repositories
+# 📚 Currently Learning
 
-<p align="center">
-
-<a href="https://github.com/Iamshivk08?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏦 Banking Management System
-
-A full-stack banking application developed using Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL.
-
-**Technologies:**
-- Java
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
-- Oracle SQL
-
----
-
-### 📚 Attendance Tracker System
-
-A web-based attendance management system with dashboard analytics and record management.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-- Database
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🔗 REST API Development
+- 🗄️ Database Optimization
+- ☁️ Cloud Deployment
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:shivkatam08@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
