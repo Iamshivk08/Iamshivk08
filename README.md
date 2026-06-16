@@ -66,9 +66,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 - Oracle SQL
 - Database Management
 - SQL Queries
-
 ---
-
 ## 🔧 Tools & Technologies
 
 <p>
