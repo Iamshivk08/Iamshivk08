@@ -1,16 +1,141 @@
 ## Hi there 👋
 
-<!--
-**Iamshivk08/Iamshivk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm BALA SIVA KATAM
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋+I'm+Bala+Siva+Katam;Java+Developer;Full+Stack+Developer;Passionate+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am **Bala Siva Katam**, a passionate software developer interested in building efficient, scalable, and user-friendly applications.
+
+I enjoy solving real-world problems through programming and continuously improving my skills in modern technologies.
+
+- 🌱 Currently learning **Advanced Java & Full Stack Development**
+- 💻 Interested in **Backend Development and Web Applications**
+- 🚀 Passionate about creating clean and efficient software solutions
+- 📚 Always exploring new technologies and improving my coding skills
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+- ☕ Java
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+- Spring Framework
+- Spring Boot
+- Node.js
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=oracle" />
+</p>
+
+- Oracle SQL
+- Database Management
+- SQL Queries
+
+---
+
+## 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="mailto:shivkatam08@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+</h3>
