@@ -176,14 +176,18 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 # 🏆 GitHub Achievements
 
+<h2 align="center">🏆 GitHub Achievements & Statistics</h2>
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
-<img src="https://img.shields.io/badge/Total%20Contributions-66-blue?style=for-the-badge&logo=github"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://img.shields.io/badge/Longest%20Streak-0%20Days-orange?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Current%20Streak-0%20Days-green?style=for-the-badge&logo=github"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" />
 </p>
 
 ---
