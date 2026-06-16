@@ -57,9 +57,9 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-## 🗄️ Database ##
+## 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=oracle" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 - Oracle SQL
@@ -85,19 +85,11 @@ I enjoy solving real-world problems through programming and continuously improvi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-# 🔥 GitHub Streak & 📊 Contribution Stats
+# 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
 
