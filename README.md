@@ -79,13 +79,11 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
 
 # 🔥 GitHub Streak
 
