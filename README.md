@@ -188,17 +188,6 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 ---
 
-<h2 align="left">🏆 GitHub Trophy</h2>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
-    alt="GitHub Trophy"
-  />
-</p>
-
----
-
 # 📚 Currently Learning
 
 - ☕ Advanced Java
