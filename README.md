@@ -58,7 +58,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/>
 </p>
 
 - Oracle SQL
@@ -84,16 +84,22 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ## 🏦 Banking Management System
 
-A full-stack banking application developed using Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL.
+A full-stack banking application developed using **Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL**.
 
-**Technologies Used:**
+### Technologies Used:
 
-- Java
-- Spring Boot
-- HTML5
-- CSS3
-- JavaScript
-- Oracle SQL
+- ☕ Java
+- 🌱 Spring Boot
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🗄️ Oracle SQL
+
+🔗 **Repository:**
+
+<a href="https://github.com/Iamshivk08">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -101,13 +107,27 @@ A full-stack banking application developed using Java, Spring Boot, HTML, CSS, J
 
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
 
-**Technologies Used:**
+### Technologies Used:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Database
-live demo : https://iamshivk08.github.io/Attendence-tracker/
+- Local Storage
+
+🌐 **Live Demo:**
+
+<a href="https://iamshivk08.github.io/Attendence-tracker/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<br>
+
+🔗 **Repository:**
+
+<a href="https://github.com/Iamshivk08/Attendence-tracker">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
+
 ---
 
 # 📂 My Repositories
@@ -126,9 +146,9 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -138,7 +158,7 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -148,7 +168,7 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -168,6 +188,16 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 
 ---
 
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
 # 📚 Currently Learning
 
 - ☕ Advanced Java
@@ -175,6 +205,7 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 - 🔗 REST API Development
 - 🗄️ Database Optimization
 - ☁️ Cloud Deployment
+- 🤖 AI Integration
 
 ---
 
@@ -202,14 +233,16 @@ live demo : https://iamshivk08.github.io/Attendence-tracker/
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Iamshivk08&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Iamshivk08&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <p align="center">
+
 ✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+
 </p>
 
 <p align="center">
