@@ -141,6 +141,8 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my profile! Let's build something amazing together 🚀
-</h3>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</p>
