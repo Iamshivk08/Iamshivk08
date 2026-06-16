@@ -140,6 +140,10 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 
 ---
+<p align = "center">
+  ✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+</p>
+
 
 <p align="center">
 
