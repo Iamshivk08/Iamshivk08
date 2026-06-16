@@ -214,11 +214,6 @@ A web-based attendance management system with dashboard analytics, attendance re
 <a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/Iamshivk08">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
