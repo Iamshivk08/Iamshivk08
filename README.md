@@ -85,10 +85,34 @@ I enjoy solving real-world problems through programming and continuously improvi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak & 📊 Contribution Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+---
+
+## 📈 GitHub Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Total%20Contributions-66-blue?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Longest%20Streak-0%20Days-orange?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Current%20Streak-0%20Days-green?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
@@ -106,7 +130,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Iamshivk08">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
