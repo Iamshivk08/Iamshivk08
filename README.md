@@ -79,7 +79,17 @@ I enjoy solving real-world problems through programming and continuously improvi
 - IntelliJ IDEA
 
 ---
+## 📊 Kaggle Contributions
 
+- 📂 Created **2 Public Datasets** on Kaggle
+- 📓 Published **2 Kaggle Notebooks**
+- 🔍 Exploring Data Science, Machine Learning & Data Analysis
+- 📈 Sharing datasets for community learning and experimentation
+
+🔗 Kaggle Profile:
+https://www.kaggle.com/balasivakatam
+
+---
 # 🚀 Featured Projects
 
 ## 🏦 Banking Management System
