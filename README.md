@@ -27,7 +27,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-- ☕ Java
+- Java
 
 ---
 
@@ -83,7 +83,6 @@ I enjoy solving real-world problems through programming and continuously improvi
 
 - 📂 Created **2 Public Datasets** on Kaggle
 - 📓 Published **2 Kaggle Notebooks**
-- 🔍 Exploring Data Science, Machine Learning & Data Analysis
 - 📈 Sharing datasets for community learning and experimentation
 
 🔗 Kaggle Profile:
