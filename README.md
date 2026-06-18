@@ -89,7 +89,6 @@ I enjoy solving real-world problems through programming and continuously improvi
 - GitHub
 - Visual Studio Code
 - IntelliJ IDEA
-
 ---
 ## 📊 Kaggle Contributions
 
@@ -101,6 +100,7 @@ I enjoy solving real-world problems through programming and continuously improvi
 https://www.kaggle.com/balasivakatam
 
 ---
+
 # 🚀 Featured Projects
 
 ## 🏦 Banking Management System
@@ -162,6 +162,95 @@ A web-based attendance management system with dashboard analytics, attendance re
 </p>
 
 ---
+<!-- Social Links -->
+
+<h2 align="center">
+🌐 Socials:
+</h2>
+
+<p align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@YOUR_MEDIUM">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_X">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+📈 GitHub Activity Graph
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+🔥 Top Languages by Repository
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+💻 Top Languages by Commit
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+⚡ GitHub Stats
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # 📊 GitHub Stats
 
