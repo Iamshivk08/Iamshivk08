@@ -170,11 +170,11 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/https://www.instagram.com/iamsh_ivk/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
