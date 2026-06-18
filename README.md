@@ -12,6 +12,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Hello%20Developer%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⭐%20Stars-51-pink?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/👥%20Followers-53-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/👀%20Profile%20Views-3688-green?style=for-the-badge"/>
+
+</div>
+
+
+<br>
+
 ---
 
 ## 👨‍💻 About Me
