@@ -16,15 +16,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⭐%20Stars-51-pink?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/👥%20Followers-53-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/👀%20Profile%20Views-3688-green?style=for-the-badge"/>
-
 </div>
 
 
