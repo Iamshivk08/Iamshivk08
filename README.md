@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm I'm BALA SIVA KATAM
+  Hi 👋 I'm BALA SIVA KATAM
 </h1>
 <h3 align="center">
   🚀 Java Developer | Full Stack Developer | Software Engineer
