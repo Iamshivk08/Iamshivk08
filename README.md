@@ -194,6 +194,61 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 
 <br>
+<h2 align="center">
+📈 GitHub Activity Graph
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+🔥 Top Languages by Repository
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+💻 Top Languages by Commit
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
+
+</p>
+
+
+<br>
+
+
+<h2 align="center">
+⚡ GitHub Stats
+</h2>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
 <h2 align="center">
