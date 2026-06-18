@@ -1,9 +1,16 @@
 # Hi 👋, I'm BALA SIVA KATAM
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋+I'm+Bala+Siva+Katam;Java+Developer;Full+Stack+Developer;Passionate+Software+Engineer" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm I'm BALA SIVA KATAM
+</h1>
 
+<h3 align="center">
+  🚀 Java Developer | Full Stack Developer | Software Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+👋;Java+Developer;Full+Stack+Developer;Building+Creative+Projects;Learning+New+Technologies" />
+</p>
 ---
 
 ## 👨‍💻 About Me
