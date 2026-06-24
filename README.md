@@ -70,6 +70,7 @@
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
 
 ## 📊 Kaggle Contributions
 
