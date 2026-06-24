@@ -29,62 +29,37 @@
 ---
 
 # 🛠️ Technical Skills
-## 💻 Programming Languages
+# 💻 Tech Stack
+
+## 🔧 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
-
-- Java
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-- HTML5  
-- CSS3  
-- JavaScript  
+---
+
+## ⚙️ Backend Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring" />
+</p>
 
 ---
 
-## ⚙️ Backend Development
+## 🗄️ Database Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=oracle,postgres,mysql" />
 </p>
-
-- Spring Boot  
-- Spring Framework  
-- Node.js  
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/>
-</p>
-
-- Oracle SQL  
-- Database Management  
-- SQL Queries  
-
----
-
-## 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
-- Git  
-- GitHub  
-- Visual Studio Code  
-- IntelliJ IDEA  
 ## 📊 Kaggle Contributions
 
 - 📂 Created **2 Public Datasets** on Kaggle
@@ -97,7 +72,6 @@ https://www.kaggle.com/balasivakatam
 ---
 
 # 🚀 Featured Projects
-
 ## 🌤️ Weather Application
 
 A responsive weather application developed using **HTML, CSS, JavaScript and Weather API** that provides real-time weather information for different locations.
