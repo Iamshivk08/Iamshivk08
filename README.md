@@ -29,49 +29,62 @@
 ---
 
 # 🛠️ Technical Skills
-
 ## 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-Java
+- Java
 
 ---
 
 ## 🌐 Frontend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-HTML5 • CSS3 • JavaScript
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ---
 
 ## ⚙️ Backend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
-Spring Boot • Spring Framework • Node.js
+- Spring Boot  
+- Spring Framework  
+- Node.js  
 
 ---
 
 ## 🗄️ Database
+
 <p>
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/>
 </p>
 
-Oracle SQL • Database Management • SQL Queries
+- Oracle SQL  
+- Database Management  
+- SQL Queries  
 
 ---
 
 ## 🔧 Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-Git • GitHub • VS Code • IntelliJ IDEA
+- Git  
+- GitHub  
+- Visual Studio Code  
+- IntelliJ IDEA  
 ## 📊 Kaggle Contributions
 
 - 📂 Created **2 Public Datasets** on Kaggle
