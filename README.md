@@ -103,18 +103,24 @@ https://www.kaggle.com/balasivakatam
 
 # 🚀 Featured Projects
 
-## 🏦 Banking Management System
+## 💬 Real-Time Chat Application
 
-A full-stack banking application developed using **Java, Spring Boot, HTML, CSS, JavaScript and Oracle SQL**.
+A full-stack real-time messaging application developed using **Java, Spring Boot, WebSocket, HTML, CSS, JavaScript and PostgreSQL**.
 
 ### Technologies Used:
 
 - ☕ Java
 - 🌱 Spring Boot
+- 🔌 WebSocket
 - 🌐 HTML5
 - 🎨 CSS3
 - ⚡ JavaScript
-- 🗄️ Oracle SQL
+- 🗄️ PostgreSQL
+  ### 📸 Application Preview:
+  
+<img src="your-image-path" alt="Real Time Chat Application" width="800"/>
+
+🔗 **Live Demo:** [Real Time Chat Application](http://127.0.0.1:4175/)
 
 🔗 **Repository:**
 
