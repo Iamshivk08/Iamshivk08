@@ -114,9 +114,17 @@ A responsive weather application developed using **HTML, CSS, JavaScript and Wea
 - ⚡ JavaScript
 - ☁️ Weather API
 
-### 🌐 Live Demo:
+## 🌐 Live Demo:
 
-🔗 [Weather App](https://iamshivk08.github.io/Weather-App/)
+<a href="https://iamshivk08.github.io/Weather-App/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-VISIT%20WEBSITE-blue?style=for-the-badge&logo=googlechrome" />
+</a>
+
+## 🔗 Repository:
+
+<a href="https://github.com/iamshivk08/Weather-App" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github" />
+</a>
 ## 📚 Attendance Tracker System
 
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
