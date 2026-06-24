@@ -34,7 +34,8 @@
 ## 🔧 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c" />
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ---
@@ -42,7 +43,9 @@
 ## 🌐 Frontend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -50,7 +53,8 @@
 ## ⚙️ Backend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,spring" />
+<img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
@@ -58,8 +62,12 @@
 ## 🗄️ Database Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=oracle,postgres,mysql" />
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+
 ## 📊 Kaggle Contributions
 
 - 📂 Created **2 Public Datasets** on Kaggle
