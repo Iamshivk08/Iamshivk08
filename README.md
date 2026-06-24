@@ -44,7 +44,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br>
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -54,6 +56,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <br>
 <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
@@ -63,7 +66,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br>
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
