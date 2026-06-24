@@ -103,33 +103,6 @@ https://www.kaggle.com/balasivakatam
 
 # 🚀 Featured Projects
 
-## 💬 Real-Time Chat Application
-
-A full-stack real-time messaging application developed using **Java, Spring Boot, WebSocket, HTML, CSS, JavaScript and PostgreSQL**.
-
-### Technologies Used:
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🔌 WebSocket
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄️ PostgreSQL
-  ### 📸 Application Preview:
-  
-<img src="your-image-path" alt="Real Time Chat Application" width="800"/>
-
-🔗 **Live Demo:** [Real Time Chat Application](http://127.0.0.1:4175/)
-
-🔗 **Repository:**
-
-<a href="https://github.com/Iamshivk08">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
----
-
 ## 📚 Attendance Tracker System
 
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
