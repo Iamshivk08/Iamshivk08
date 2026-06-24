@@ -103,6 +103,20 @@ https://www.kaggle.com/balasivakatam
 
 # 🚀 Featured Projects
 
+## 🌤️ Weather Application
+
+A responsive weather application developed using **HTML, CSS, JavaScript and Weather API** that provides real-time weather information for different locations.
+
+### Technologies Used:
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- ☁️ Weather API
+
+### 🌐 Live Demo:
+
+🔗 [Weather App](https://iamshivk08.github.io/Weather-App/)
 ## 📚 Attendance Tracker System
 
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
@@ -230,13 +244,6 @@ A web-based attendance management system with dashboard analytics, attendance re
 </p>
 
 <br>
-
-
-
-
-
-
-
 
 # 📚 Currently Learning
 
