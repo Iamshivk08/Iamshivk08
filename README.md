@@ -126,7 +126,7 @@ A responsive weather application developed using **HTML, CSS, JavaScript and Wea
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github" />
 </a>
 
-## 📚 Attendance Tracker System
+## 📌 Attendance Tracker System
 
 A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
 
