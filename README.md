@@ -38,7 +38,6 @@
   <br>
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-
 ---
 
 ## 🌐 Frontend Technologies
