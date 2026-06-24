@@ -29,7 +29,7 @@
 ---
 
 # 🛠️ Technical Skills
-# 💻 Tech Stack
+#  Tech Stack
 
 ## 🔧 Programming Languages
 
