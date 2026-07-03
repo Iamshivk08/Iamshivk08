@@ -6,9 +6,7 @@
 </h3>
 
 <p align="center">
-  <video width="700" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/YOUR-VIDEO-ID" type="video/mp4">
-  </video>
+  <img src="https://github.com/user-attachments/assets/YOUR-GIF-ID" width="700" alt="Portfolio Animation"/>
 </p>
 
 ---
