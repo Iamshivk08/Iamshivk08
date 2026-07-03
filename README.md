@@ -5,15 +5,15 @@
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=700&lines=System+Booting...;Hello+Developer+👨‍💻;Coding+the+Future;Let's+Build+Something+Amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+There!+👋;Java+Developer;Full+Stack+Developer;Problem+Solver;Welcome+to+My+GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00FF99,100:00C853&height=170&section=header&text=Code.%20Create.%20Innovate.&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2563EB&height=190&section=header&text=Happy%20Coding!&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="340"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340"/>
 </p>
 ---
 
