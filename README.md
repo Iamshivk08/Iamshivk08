@@ -5,11 +5,18 @@
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
 
+<!-- Animated Profile Image -->
+
 <p align="center">
-  <video width="700" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/4a8c1b6d-7f3a-4e8b-9c1d-123456789abc" type="video/mp4">
-  </video>
+  <img src="./assets/profile.gif" width="280" alt="Shiv Kumar"/>
 </p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Developer;Full+Stack+Developer;DSA+Learner;Building+Creative+Projects;Always+Learning+New+Technologies" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
