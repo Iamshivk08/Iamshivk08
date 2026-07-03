@@ -4,18 +4,25 @@
 <h3 align="center">
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=300&height=20"
-    width="0"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=35&section=header"
+    width="260"
   />
+
+  <br>
 
   <img
     src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
     width="220"
     alt="Bala Siva Katam"
-    style="border-radius:50%;box-shadow:0 0 30px #00F7FF;"
+  />
+
+  <br>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=35&section=footer"
+    width="260"
   />
 </p>
 ---
