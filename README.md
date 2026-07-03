@@ -6,9 +6,19 @@
 </h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
-       width="250"
-       alt="Bala Siva Katam"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=FFFFFF00&center=true&vCenter=true&width=10&height=10"/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img
+    src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
+    width="220"
+    alt="Profile"/>
+</picture>
+
 </p>
 
 ---
