@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Bala Siva Katam Banner">
+  <img src="https://raw.githubusercontent.com/lamshivk08/lamshivk08/main/assets/banner.png" width="100%" alt="Bala Siva Katam Banner"/>
 </p>
 
 <p align="center">
