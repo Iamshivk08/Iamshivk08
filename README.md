@@ -17,10 +17,7 @@
        alt="Bala Siva Katam"/>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:2563EB&height=3"/>
-</p>
+
 
 <!-- Badges -->
 <p align="center">
