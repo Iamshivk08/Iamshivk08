@@ -8,7 +8,7 @@
 <!-- Animated Profile Image -->
 
 <p align="center">
-  <img src="Siva (3).png" width="280" alt="Shiv K"/>
+  <img src="Siva.png" width="280" alt="Shiv K"/>
 </p>
 
 <!-- Typing Animation -->
