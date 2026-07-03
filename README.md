@@ -6,9 +6,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4 width = 600 "/>
+  <img src="https://raw.githubusercontent.com/lamshivk08/lamshivk08/main/assets/banner.png" width="100%" alt="Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;DSA+Learner;Building+Creative+Projects;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lamshivk08?style=for-the-badge&label=Followers&color=00BFFF"/>
+  <img src="https://komarev.com/ghpvc/?username=lamshivk08&style=for-the-badge&color=00BFFF"/>
+</p>
 
 ---
 
