@@ -5,10 +5,12 @@
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=35&section=header"
-    width="260"
-  />
+  <a href="https://github.com/your-username">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=00C9FF&center=true&vCenter=true&width=230&height=230&lines=%20"
+      width="230"
+    />
+  </a>
 
   <br>
 
@@ -16,13 +18,6 @@
     src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
     width="220"
     alt="Bala Siva Katam"
-  />
-
-  <br>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=35&section=footer"
-    width="260"
   />
 </p>
 ---
