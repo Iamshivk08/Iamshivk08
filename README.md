@@ -2,15 +2,11 @@
   Hi 👋 I'm BALA SIVA KATAM
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+There!+👋;Java+Developer;Full+Stack+Developer;Problem+Solver;Welcome+to+My+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome!;Java+Developer;Building+Awesome+Projects;Thanks+for+Visiting+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2563EB&height=190&section=header&text=Happy%20Coding!&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=150&section=header&text=Keep%20Learning%20🚀&fontSize=40&fontColor=ffffff"/>
 </p>
 ---
 
