@@ -5,8 +5,21 @@
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+👋;Java+Developer;Full+Stack+Developer;Building+Creative+Projects;Learning+New+Technologies" /> </p> 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Hello%20Developer%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn"/> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/> </p> </div>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Bala Siva Katam Banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;DSA+Learner;Building+Creative+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/lamshivk08">
+    <img src="https://img.shields.io/github/followers/lamshivk08?label=Followers&style=for-the-badge&color=00bfff"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=lamshivk08&style=for-the-badge&color=00bfff"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
