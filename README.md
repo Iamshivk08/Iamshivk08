@@ -1,9 +1,6 @@
 <h1 align="center">
   Hi 👋 I'm BALA SIVA KATAM
 </h1>
-<h3 align="center">
-  🚀 Java Developer | Full Stack Developer | Software Engineer
-</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+There!+👋;Java+Developer;Full+Stack+Developer;Problem+Solver;Welcome+to+My+GitHub" />
 </p>
