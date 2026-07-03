@@ -6,12 +6,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Profile+👋;Java+Developer;Full+Stack+Developer;Building+Creative+Projects;Learning+New+Technologies" />
-</p>
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="GitHub Banner"/>
-</p>
-
+  <img src= "https://chatgpt.com/backend-api/estuary/content?id=file_00000000247871f5b662c4138c5ed62e&ts=495300&p=fs&cid=1&sig=4e5e6a15f84d753396bbf69b37692bf6e51f5a7fce6ed477bbc998b932f1e8ee&v=0">
+  </p>
 ---
 
 ## 👨‍💻 About Me
