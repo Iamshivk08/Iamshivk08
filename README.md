@@ -5,20 +5,15 @@
   🚀 Java Developer | Full Stack Developer | Software Engineer
 </h3>
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=1000&color=00C9FF&center=true&vCenter=true&width=230&height=230&lines=%20"
-      width="230"
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Bala+Siva+Katam;Java+Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" />
+</p>
 
-  <br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:3B82F6,100:06B6D4&height=170&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-  <img
-    src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
-    width="220"
-    alt="Bala Siva Katam"
-  />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 </p>
 ---
 
