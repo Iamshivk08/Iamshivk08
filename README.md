@@ -6,15 +6,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+👋;Java+Developer;Full+Stack+Developer;Building+Creative+Projects;Learning+New+Technologies" />
+  <video width="700" autoplay loop muted playsinline>
+    <source src="https://github.com/user-attachments/assets/YOUR-VIDEO-ID" type="video/mp4">
+  </video>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Hello%20Developer%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-</div>
 
 ---
 
