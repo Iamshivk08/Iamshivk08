@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4 width = 600 "/>
 </p>
 
 
