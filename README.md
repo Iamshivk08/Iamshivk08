@@ -1,12 +1,40 @@
 <h1 align="center">
   Hi 👋 I'm BALA SIVA KATAM
 </h1>
+<!-- Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome!;Java+Developer;Building+Awesome+Projects;Thanks+for+Visiting+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Bala+Siva+Katam;Java+Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:60A5FA&height=150&section=header&text=Keep%20Learning%20🚀&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,50:2563EB,100:1E3A8A&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+</p>
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/40817441?s=400&v=4"
+       width="220"
+       style="border-radius:50%;"
+       alt="Bala Siva Katam"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:2563EB&height=3"/>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 ---
 
