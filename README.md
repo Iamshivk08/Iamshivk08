@@ -6,11 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;Building+Real+World+Projects;Learning+DSA+Every+Day;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivk08&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="./assets/profile.jpeg" width="300" alt="Shiv K"/>
 </p>
 
 ---
