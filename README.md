@@ -179,7 +179,7 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 ### 📈 GitHub Statistics
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight"/>
 
 </td>
 
