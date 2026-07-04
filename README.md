@@ -173,52 +173,41 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 # 📊 GitHub Performance Dashboard
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 📈 GitHub Statistics
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔥 Contribution Streak
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Statistics</h3>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Contribution Streak</h3>
+      <img width="100%" src="https://streak-stats.demolab.com?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 # 🧠 Language Intelligence & Contribution Flow
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Top Languages</h3>
 
-### 💻 Top Languages
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
+      <br><br>
 
-<br><br>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
+    </td>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
+    <td align="center" width="50%">
+      <h3>📈 Contribution Graph</h3>
 
-</td>
-
-<td width="50%" align="center">
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
-
-</td>
-</tr>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
+    </td>
+  </tr>
 </table>
 
 # 📚 Currently Learning
