@@ -171,44 +171,7 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 <br>
 
-# 📊 GitHub Performance Dashboard
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📈 GitHub Statistics</h3>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔥 Contribution Streak</h3>
-      <img width="100%" src="https://streak-stats.demolab.com?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-# 🧠 Language Intelligence & Contribution Flow
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Top Languages</h3>
-
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
-
-      <br><br>
-
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
-    </td>
-
-    <td align="center" width="50%">
-      <h3>📈 Contribution Graph</h3>
-
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+---
 
 # 📚 Currently Learning
 
