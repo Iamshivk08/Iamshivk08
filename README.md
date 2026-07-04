@@ -171,49 +171,55 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 <br>
 
+# 📊 GitHub Performance Dashboard
 
-<h2 align="center">
-🔥 Top Languages by Repository
-</h2>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
+### 📈 GitHub Statistics
 
-<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
+</td>
 
-</p>
+<td width="50%" align="center">
 
+### 🔥 Contribution Streak
 
-<br>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamshivk08&theme=tokyonight&hide_border=true"/>
 
-
-<h2 align="center">
-💻 Top Languages by Commit
-</h2>
-
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
-
-</p>
-
+</td>
+</tr>
+</table>
 
 <br>
 
+# 🧠 Language Intelligence & Contribution Flow
 
-<h2 align="center">
-⚡ GitHub Stats
-</h2>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
+### 💻 Top Languages
 
-<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamshivk08&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamshivk08&theme=tokyonight"/>
 
-<br>
+</td>
+
+<td width="50%" align="center">
+
+### 📈 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshivk08&theme=tokyo-night&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 # 📚 Currently Learning
 
