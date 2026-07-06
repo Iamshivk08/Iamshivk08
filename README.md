@@ -174,8 +174,18 @@ A web-based attendance management system with dashboard analytics, attendance re
 
 
 <br>
+# 📊 GitHub Dashboard
 
+<p align="center">
+<a href="https://iamshivk08.github.io">
+<img src="assets/dashboard-preview.png" width="100%">
+</a>
+</p>
+
+### 🔗 Live Dashboard
+https://iamshivk08.github.io
 ---
+
 
 # 📚 Currently Learning
 
