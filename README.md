@@ -96,9 +96,6 @@
   ⭐ <b>Click on any badge to view the certificate.</b>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=F7B500&section=footer"/>
-</p>
 
 <!-- ============================================================= -->
 
