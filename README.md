@@ -66,12 +66,24 @@
 
 ## 📊 Kaggle Contributions
 
-- 📂 Created **2 Public Datasets** on Kaggle
-- 📓 Published **2 Kaggle Notebooks**
-- 📈 Sharing datasets for community learning and experimentation
+<table>
+<tr>
+<td>
 
-🔗 Kaggle Profile:
-https://www.kaggle.com/balasivakatam
+🌟 <b>Open Data Contributor</b>
+
+✔️ Published public datasets for real-world applications.
+
+✔️ Created notebooks demonstrating data analysis and ML concepts.
+
+✔️ Promoting collaborative learning through open-source knowledge sharing.
+
+📎 <b>Explore my work:</b><br>
+<a href="https://www.kaggle.com/balasivakatam">🔗 kaggle.com/balasivakatam</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
