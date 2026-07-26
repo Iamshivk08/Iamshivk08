@@ -31,11 +31,9 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, Iam **Bala Siva Katam**, passionate Full Stack Development learner with a strong interest in **Backend Development, Web Applications, and Software Engineering**. 🌱 Currently exploring **Advanced Java, Spring Boot, and modern web technologies** to build scalable and efficient applications. 💻🚀  
-
-🔍 I enjoy solving problems, developing clean and maintainable code, and creating user-focused software solutions. 📚 Always curious to learn new technologies, improve my programming skills, and stay updated with the latest trends in the tech world. ⚡  
-
-🎯 My goal is to become a skilled software developer by continuously learning, building real-world projects, and contributing innovative solutions to the developer community. 🌐✨
+| |
+|---|
+| 👋 Hi, I am **Bala Siva Katam**, a passionate **Full Stack Development** learner with a strong interest in **Backend Development, Web Applications, and Software Engineering**. 🌱 Currently exploring **Advanced Java, Spring Boot, and modern web technologies** to build scalable and efficient applications. 💻🚀<br><br>🔍 I enjoy solving problems, developing clean and maintainable code, and creating user-focused software solutions. 📚 Always curious to learn new technologies, improve my programming skills, and stay updated with the latest trends in the tech world. ⚡<br><br>🎯 My goal is to become a skilled software developer by continuously learning, building real-world projects, and contributing innovative solutions to the developer community. 🌐✨ |
 
 ---
 
