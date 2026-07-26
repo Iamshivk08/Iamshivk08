@@ -64,16 +64,22 @@
 
 ---
 
+<!-- ======================= CERTIFICATIONS ======================= -->
+
 <h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&pause=1500&color=F7B500&center=true&vCenter=true&width=550&lines=Professional+Certifications;Continuous+Learning+%F0%9F%9A%80;Always+Upskilling+%F0%9F%92%AA"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=2500&color=F7B500&center=true&vCenter=true&width=600&lines=Verified+Professional+Certifications;Continuous+Learning+%F0%9F%9A%80;Always+Upskilling+%F0%9F%92%AA" />
+</p>
+
+<p align="center">
+  <i>Learning • Building • Growing</i>
 </p>
 
 <p align="center">
 
 <a href="https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate">
-<img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/certificates/914d7ea3c5af">
@@ -85,6 +91,16 @@
 </a>
 
 </p>
+
+<p align="center">
+  ⭐ <b>Click on any badge to view the certificate.</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=F7B500&section=footer"/>
+</p>
+
+<!-- ============================================================= -->
 
 ---
 
