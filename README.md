@@ -101,25 +101,33 @@
 
 ---
 
-## 📊 Kaggle Journey
+<h2 align="center">📊 Kaggle Contributions</h2>
 
-<table>
-<tr>
-<td>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&pause=2500&color=20BEFF&center=true&vCenter=true&width=600&lines=Open+Data+Contributor;Sharing+Knowledge+Through+Datasets;Data+Science+%7C+Machine+Learning" />
+</p>
 
-✨ Building and sharing open-source datasets.
+<p align="center">
 
-📈 Publishing notebooks focused on data exploration and practical ML.
+📂 <b>Published Public Datasets</b><br><br>
 
-🤝 Contributing resources to support community learning.
+📓 <b>Developed Data Science & Machine Learning Notebooks</b><br><br>
 
-🎯 Continuously improving data analytics and machine learning skills.
+🌍 <b>Supporting Open Learning & Community Collaboration</b>
 
-🔗 <b>Kaggle:</b> <a href="https://www.kaggle.com/balasivakatam">balasivakatam</a>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+
+<a href="https://www.kaggle.com/balasivakatam">
+<img src="https://img.shields.io/badge/Kaggle-Visit%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+⭐ <i>Building • Learning • Sharing</i> ⭐
+</p>
 
 ---
 
