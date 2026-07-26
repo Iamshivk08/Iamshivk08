@@ -75,9 +75,9 @@
     <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
 
-  <a href="YOUR_AICTE_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/AICTE-Virtual_Internship-0A66C2?style=for-the-badge&logo=academia&logoColor=white" />
-  </a>
+ <a href="https://www.hackerrank.com/certificates/914d7ea3c5af">
+  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 
   <a href="YOUR_HACKATHON_CERTIFICATE_LINK">
     <img src="https://img.shields.io/badge/Hackathon-Mohan_Babu_University-FF6B00?style=for-the-badge&logo=trophy&logoColor=white" />
