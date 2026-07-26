@@ -64,26 +64,11 @@
 
 ---
 
-## 📊 Kaggle Contributions
+## 📊 Kaggle
 
-<table>
-<tr>
-<td>
+📂 **Datasets** • 📓 **Notebooks** • 🚀 **Open Learning**
 
-🌟 <b>Open Data Contributor</b>
-
-✔️ Published public datasets for real-world applications.
-
-✔️ Created notebooks demonstrating data analysis and ML concepts.
-
-✔️ Promoting collaborative learning through open-source knowledge sharing.
-
-📎 <b>Explore my work:</b><br>
-<a href="https://www.kaggle.com/balasivakatam">🔗 kaggle.com/balasivakatam</a>
-
-</td>
-</tr>
-</table>
+🔗 **Explore my work:** https://www.kaggle.com/balasivakatam
 
 ---
 
