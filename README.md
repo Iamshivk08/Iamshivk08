@@ -35,13 +35,13 @@
 <tr>
 <td>
 
+🎓 Final Year **B.Tech CSE** Student at **Mohan Babu University**
+
 ✨ Passionate **Full Stack Developer** who enjoys building fast, scalable, and user-friendly applications.
 
 🚀 Exploring **Advanced Java • Spring Boot • SQL • JavaScript • REST APIs**
 
 💡 Focused on **Backend Development**, **DSA**, and creating real-world software solutions.
-
-🔥 Constantly learning, solving problems, and turning ideas into impactful projects.
 
 🎯 **Mission:** Build software that makes a difference and continuously grow as a Software Engineer.
 
