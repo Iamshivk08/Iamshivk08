@@ -101,22 +101,21 @@
 
 ---
 
-## 📊 Kaggle Contributions
+## 📊 Kaggle Journey
 
 <table>
 <tr>
 <td>
 
-🌟 <b>Open Data Contributor</b>
+✨ Building and sharing open-source datasets.
 
-✔️ Published public datasets for real-world applications.
+📈 Publishing notebooks focused on data exploration and practical ML.
 
-✔️ Created notebooks demonstrating data analysis and ML concepts.
+🤝 Contributing resources to support community learning.
 
-✔️ Promoting collaborative learning through open-source knowledge sharing.
+🎯 Continuously improving data analytics and machine learning skills.
 
-📎 <b>Explore my work:</b><br>
-<a href="https://www.kaggle.com/balasivakatam">🔗 kaggle.com/balasivakatam</a>
+🔗 <b>Kaggle:</b> <a href="https://www.kaggle.com/balasivakatam">balasivakatam</a>
 
 </td>
 </tr>
