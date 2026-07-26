@@ -66,11 +66,6 @@
 
 ## 🏆 Certifications
 
-<p align="left">
-  <a href="YOUR_CSA_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/ServiceNow-CSA-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
-
   <a href="https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate">
     <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
@@ -79,9 +74,10 @@
   <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-  <a href="YOUR_HACKATHON_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/Hackathon-Mohan_Babu_University-FF6B00?style=for-the-badge&logo=trophy&logoColor=white" />
-  </a>
+<!-- Innovatex Hackathon -->
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7333138288322478080/" target="_blank">
+  <img src="https://img.shields.io/badge/Innovatex%20Hackathon-Participant-FF6B00?style=for-the-badge&logo=hackaday&logoColor=white" />
+</a>
 </p>
 
 ---
