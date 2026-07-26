@@ -66,10 +66,21 @@
 
 ## 📊 Kaggle
 
-📂 **Datasets** • 📓 **Notebooks** • 🚀 **Open Learning**
+<table>
+<tr>
+<td>
 
-🔗 **Explore my work:** https://www.kaggle.com/balasivakatam
+📂 **Published Datasets**
 
+📓 **ML & Data Science Notebooks**
+
+🌍 **Contributing to Open Learning**
+
+🔗 <a href="https://www.kaggle.com/balasivakatam"><b>Visit My Kaggle →</b></a>
+
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Featured Projects
