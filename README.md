@@ -109,11 +109,11 @@
 
 <p align="center">
 
-📂 <b>Published Public Datasets</b>
+<P align = "center"> 📂 <b>Published Public Datasets</b> </p>
 
-📓 <b>Developed Data Science & Machine Learning Notebooks</b>
+<p align = "center">📓 <b>Developed Data Science & Machine Learning Notebooks</b></p>
 
-🌍 <b>Supporting Open Learning & Community Collaboration</b>
+<p align = "center">🌍 <b>Supporting Open Learning & Community Collaboration</b></p>
 
 </p>
 
