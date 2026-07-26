@@ -64,20 +64,30 @@
 
 ---
 
-## 🏆 Certifications
+<h2 align="center">🏆 Certifications</h2>
 
-  <a href="https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate">
-    <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&width=500&lines=Verified+Professional+Certifications" />
+</p>
 
- <a href="https://www.hackerrank.com/certificates/914d7ea3c5af">
-  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<p align="center">
+
+<a href="https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate">
+  <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </a>
 
-<!-- Innovatex Hackathon -->
+<a href="https://www.hackerrank.com/certificates/914d7ea3c5af">
+  <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7333138288322478080/">
-  <img src="https://img.shields.io/badge/Innovatex%20Hackathon-Participant-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovatex%20Hackathon-Participant-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ---
