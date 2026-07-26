@@ -109,9 +109,9 @@
 
 <p align="center">
 
-📂 <b>Published Public Datasets</b><br><br>
+📂 <b>Published Public Datasets</b>
 
-📓 <b>Developed Data Science & Machine Learning Notebooks</b><br><br>
+📓 <b>Developed Data Science & Machine Learning Notebooks</b>
 
 🌍 <b>Supporting Open Learning & Community Collaboration</b>
 
