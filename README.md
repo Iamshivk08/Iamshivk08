@@ -64,13 +64,25 @@
 
 ---
 
-## 📊 Kaggle
+## 📊 Kaggle Contributions
 
-- 📂 Open Data Contributor
-- 📓 Data Science & ML Notebooks
-- 🚀 Community Learning
+<table>
+<tr>
+<td>
 
-🔗 https://www.kaggle.com/balasivakatam
+🚀 Actively contributing to the Kaggle community by publishing datasets and notebooks.
+
+📂 Created **Public Datasets** for community learning and experimentation.
+
+📓 Developed **Kaggle Notebooks** showcasing data analysis and machine learning workflows.
+
+🌍 Passionate about sharing open resources that help developers and data enthusiasts learn faster.
+
+🔗 **Profile:** <a href="https://www.kaggle.com/balasivakatam">Kaggle | Bala Siva Katam</a>
+
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Featured Projects
