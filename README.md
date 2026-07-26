@@ -66,21 +66,11 @@
 
 ## 📊 Kaggle
 
-<table>
-<tr>
-<td>
+- 📂 Open Data Contributor
+- 📓 Data Science & ML Notebooks
+- 🚀 Community Learning
 
-📂 **Published Datasets**
-
-📓 **ML & Data Science Notebooks**
-
-🌍 **Contributing to Open Learning**
-
-🔗 <a href="https://www.kaggle.com/balasivakatam"><b>Visit My Kaggle →</b></a>
-
-</td>
-</tr>
-</table>
+🔗 https://www.kaggle.com/balasivakatam
 ---
 
 # 🚀 Featured Projects
