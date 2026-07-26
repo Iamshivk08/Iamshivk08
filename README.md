@@ -64,6 +64,28 @@
 
 ---
 
+## 🏆 Certifications
+
+<p align="left">
+  <a href="YOUR_CSA_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/ServiceNow-CSA-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
+  </a>
+
+  <a href="YOUR_VIRTUAL_INTERNSHIP_LINK">
+    <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
+  </a>
+
+  <a href="YOUR_AICTE_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/AICTE-Virtual_Internship-0A66C2?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
+
+  <a href="YOUR_HACKATHON_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/Hackathon-Mohan_Babu_University-FF6B00?style=for-the-badge&logo=trophy&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 Kaggle Contributions
 
 <table>
