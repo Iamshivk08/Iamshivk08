@@ -76,7 +76,7 @@
 
 <!-- Innovatex Hackathon -->
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7333138288322478080/">
-<img src="https://img.shields.io/badge/Innovatex%20Hackathon-Participant-FF6B00?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Innovatex%20Hackathon-Participant-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />
 </a>
 </p>
 
