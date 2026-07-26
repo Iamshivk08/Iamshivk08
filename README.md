@@ -66,7 +66,12 @@
 
 ## 🏆 Certifications
 
-  <a href="[YOUR_VIRTUAL_INTERNSHIP_LINK](https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate)">
+<p align="left">
+  <a href="YOUR_CSA_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/ServiceNow-CSA-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
+  </a>
+
+  <a href="https://myskillwallet.ai/dashboard/skillwallet/module/servicenow-system-administrator-6984661dcd34a57368dcc8e6?moduleTab=certificate">
     <img src="https://img.shields.io/badge/ServiceNow-Virtual_Internship-00C7B7?style=for-the-badge&logo=servicenow&logoColor=white" />
   </a>
 
