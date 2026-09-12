@@ -1,4 +1,12 @@
 <p align = "center"><h1>👋Hi I'm Bala Siva Katam</h1></p>
+## 🌐 Personal Website
+
+Check out my personal portfolio website to learn more about me, explore my projects, skills, experience, and achievements.
+
+🔗 **Portfolio:** [Visit My Personal Website](https://trend-short-15321619.figma.site/)
+
+The website showcases my journey as a **B.Tech Computer Science student and Full Stack Developer**, along with my projects and professional profiles.
+
 <!-- Animated Greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Learing+Spring+boot;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
