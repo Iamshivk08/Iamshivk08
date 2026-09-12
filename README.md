@@ -1,11 +1,4 @@
-<p align = "center"><h1>👋Hi I'm Bala Siva Katam</h1></p>
-## 🌐 Personal Website
-
-Check out my personal portfolio website to learn more about me, explore my projects, skills, experience, and achievements.
-
-🔗 **Portfolio:** [Visit My Personal Website](https://trend-short-15321619.figma.site/)
-
-The website showcases my journey as a **B.Tech Computer Science student and Full Stack Developer**, along with my projects and professional profiles.
+<p align = "center"><h1>👋Hi I'm Bala Siva Katam</h1></p>        🔗 **Portfolio:** [Visit My Personal Website](https://trend-short-15321619.figma.site/)
 
 <!-- Animated Greeting -->
 <p align="center">
