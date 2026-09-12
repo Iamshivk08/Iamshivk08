@@ -1,5 +1,4 @@
-<p align = "center"><h1>👋Hi I'm Bala Siva Katam</h1></p>        🔗 **Portfolio:** [Visit My Personal Website](https://trend-short-15321619.figma.site/)
-
+<p align = "center"><h1>👋Hi I'm Bala Siva Katam</h1></p>        
 <!-- Animated Greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Learing+Spring+boot;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
@@ -180,6 +179,41 @@ A web-based attendance management system with dashboard analytics, attendance re
 <a href="https://github.com/Iamshivk08/Attendence-tracker">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 </a>
+
+## 🌐 Personal Website
+
+<p align="center">
+  <a href="https://trend-short-15321619.figma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+  <a href="https://github.com/Iamshivk08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Iamshivk08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bala-siva-katam-779129314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚀 Explore my portfolio</strong><br/>
+  Discover my projects, technical skills, development journey, and professional work.
+</p>
+
+### ✨ What you'll find
+
+* 💻 Full Stack Development Projects
+* ☕ Java & Spring Boot Development
+* ⚛️ React & Frontend Projects
+* 🗄️ Database & REST API Projects
+* 🔐 Cybersecurity Projects
+* 📊 Machine Learning Projects
+* 🧑‍💻 Coding & Problem-Solving Practice
+
+<p align="center">
+  <a href="https://trend-short-15321619.figma.site/">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio%20→-00C7B7?style=for-the-badge" alt="Explore Portfolio"/>
+  </a>
+</p>
 
 ---
 
