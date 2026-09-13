@@ -155,31 +155,6 @@ A responsive weather application developed using **HTML, CSS, JavaScript and Wea
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github" />
 </a>
 
-## 📌 Attendance Tracker System
-
-A web-based attendance management system with dashboard analytics, attendance records, and responsive UI.
-
-### Technologies Used:
-
-- HTML5
-- CSS3
-- JavaScript
-- Local Storage
-
-🌐 **Live Demo:**
-
-<a href="https://iamshivk08.github.io/Attendence-tracker/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-blue?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-<br>
-
-🔗 **Repository:**
-
-<a href="https://github.com/Iamshivk08/Attendence-tracker">
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-</a>
-
 ## 🌐 Personal Website
 
 <p align="center">
