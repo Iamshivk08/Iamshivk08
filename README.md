@@ -158,7 +158,7 @@ A responsive weather application developed using **HTML, CSS, JavaScript and Wea
 ## 🌐 Personal Website
 
 <p align="center">
-  <a href="https://trend-short-15321619.figma.site/" target="_blank">
+  <a href="https://superb-phoenix-47fa16.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Visit My Portfolio"/>
   </a>
   <a href="https://github.com/Iamshivk08" target="_blank">
