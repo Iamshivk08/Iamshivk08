@@ -22,7 +22,7 @@
   <img
     src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/stack.svg"
     alt="Bala Siva Katam Tech Stack"
-    width="500"
+    width="900"
   >
 </p>
 
