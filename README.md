@@ -17,6 +17,16 @@
 </p>
 
 
+<!-- TECH STACK -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/stack.svg"
+    alt="Bala Siva Katam Tech Stack"
+    width="500"
+  >
+</p>
+
+
 <!-- ABOUT -->
 <p align="center">
   <img
@@ -27,14 +37,6 @@
 </p>
 
 
-<!-- TECH STACK -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/stack.svg"
-    alt="Bala Siva Katam Tech Stack"
-    width="900"
-  >
-</p>
 
 
 <!-- CONNECT -->
