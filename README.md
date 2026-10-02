@@ -78,6 +78,16 @@
 
 
 ## 🎌 Featured builds
+## 🚀 Featured Projects
+
+| Project                                                                                | What it is                                                                                                                         | Stack                                                             |                               Live Demo                              |
+| :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------------: |
+| [**Portfolio**](https://superb-phoenix-47fa16.netlify.app/)                            | Personal developer portfolio showcasing projects, skills, experience, and achievements                                             | `HTML` `CSS` `JavaScript`                                         |         [🔗 View](https://superb-phoenix-47fa16.netlify.app/)        |
+| [**Weather Forecast**](https://candid-zuccutto-a7dbb1.netlify.app/)                    | Real-time weather forecasting application with location-based weather information                                                  | `HTML` `CSS` `JavaScript` `REST API`                              |        [🔗 View](https://candid-zuccutto-a7dbb1.netlify.app/)        |
+| [**E-Commerce**](https://mellifluous-halva-739bcc.netlify.app/)                        | Responsive e-commerce web application with product browsing and shopping functionality                                             | `React` `Vite` `JavaScript` `CSS`                                 |       [🔗 View](https://mellifluous-halva-739bcc.netlify.app/)       |
+| [**Scientific Calculator**](https://iamshivk08.github.io/Calculator-/get-started.html) | Scientific calculator supporting arithmetic and advanced mathematical operations                                                   | `HTML` `CSS` `JavaScript`                                         | [🔗 View](https://iamshivk08.github.io/Calculator-/get-started.html) |
+| [**Bank Management System**](https://visionary-crisp-b2e25e.netlify.app/)              | Web-based banking management system for handling banking operations through an interactive interface                               | `HTML` `CSS` `JavaScript`                                         |        [🔗 View](https://visionary-crisp-b2e25e.netlify.app/)        |
+| **Stock Price Prediction AI**                                                          | Machine-learning application for stock price prediction with model training, evaluation, prediction API, and interactive dashboard | `Python` `Machine Learning` `Random Forest` `FastAPI` `Streamlit` |                               🛠️ Local                              |
 
 
 ## 🌃 My contribution city
