@@ -1,3 +1,43 @@
+
+<!-- PROFILE LINKS -->
+<p align="center">
+
+  <a href="mailto:shivkatam08@gmail.com">
+    <img
+      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    >
+  </a>
+
+  <a href="https://github.com/Iamshivk08">
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
+  </a>
+
+  <a href="https://www.linkedin.com/in/bala-siva-katam-779129314/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+
+  <a href="https://leetcode.com/u/iam_shivk/">
+    <img
+      src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    >
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/shivkatam08">
+    <img
+      src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+      alt="HackerRank"
+    >
+  </a>
+
+</p>
 <!-- HERO -->
 <p align="center">
   <img
@@ -48,43 +88,3 @@
   >
 </p>
 
-
-<!-- PROFILE LINKS -->
-<p align="center">
-
-  <a href="mailto:shivkatam08@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
-
-  <a href="https://github.com/Iamshivk08">
-    <img
-      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
-  </a>
-
-  <a href="https://www.linkedin.com/in/bala-siva-katam-779129314/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
-  </a>
-
-  <a href="https://leetcode.com/u/iam_shivk/">
-    <img
-      src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    >
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/shivkatam08">
-    <img
-      src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
-      alt="HackerRank"
-    >
-  </a>
-
-</p>
