@@ -113,19 +113,26 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" height="45" alt="Java, Python, C, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="28" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="28" alt="C" />
+  <img src="https://skillicons.dev/icons?i=js" height="28" alt="JavaScript" />
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="45" alt="HTML, CSS, React" />
+  <img src="https://skillicons.dev/icons?i=html" height="28" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="28" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" height="28" alt="React" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" height="45" alt="Spring Boot, Node.js, FastAPI" />
+  <img src="https://skillicons.dev/icons?i=spring" height="28" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="28" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="28" alt="FastAPI" />
 </p>
 
 </td>
@@ -134,33 +141,34 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" height="45" alt="PostgreSQL, MySQL, Oracle" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="28" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="28" alt="Oracle" />
 </p>
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" height="45" alt="Python, scikit-learn, TensorFlow" />
-</p>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="28" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="28" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="28" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="28" alt="NumPy" />
 </p>
 
 ### 🛠️ Developer Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" height="45" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" />
+  <img src="https://skillicons.dev/icons?i=git" height="28" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" height="28" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=postman" height="28" alt="Postman" />
 </p>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <i>Building, learning, and improving through practical projects.</i>
-</p>
 
 ## 🚀 Signature Projects
 
