@@ -104,42 +104,63 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 </tr>
 </table>
 
-<h3 align="center">📋 Detailed Skills Summary</h3>
+## 📋 Detailed Skills Summary
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💻 Programming Languages**
+### 💻 Programming Languages
 
-`Java` `Python` `C` `JavaScript` `SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" height="45" alt="Java, Python, C, JavaScript" />
+</p>
 
-**🌐 Web Development**
+### 🌐 Web Development
 
-`HTML5` `CSS3` `React` `REST APIs`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="45" alt="HTML, CSS, React" />
+</p>
 
-**⚙️ Backend Development**
+### ⚙️ Backend Development
 
-`Spring Boot` `Node.js` `FastAPI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" height="45" alt="Spring Boot, Node.js, FastAPI" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**🗄️ Databases**
+### 🗄️ Databases
 
-`PostgreSQL` `MySQL` `Oracle SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" height="45" alt="PostgreSQL, MySQL, Oracle" />
+</p>
 
-**🤖 Machine Learning**
+### 🤖 Machine Learning
 
-`Pandas` `NumPy` `Scikit-learn` `Random Forest`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" height="45" alt="Python, scikit-learn, TensorFlow" />
+</p>
 
-**🛠️ Developer Tools**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
+</p>
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman`
+### 🛠️ Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" height="45" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" />
+</p>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <i>Building, learning, and improving through practical projects.</i>
+</p>
 
 ## 🚀 Signature Projects
 
