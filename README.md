@@ -173,15 +173,9 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 ## 🚀 Signature Projects
 
 <p align="center">
-  <strong>💡 Building solutions that solve real problems</strong>
-  <br/>
-  🚀 Turning ideas into innovative projects
-  <br/>
-  🤖 Exploring AI, Machine Learning & Software Development
-  <br/>
-  ⚡ Learning, building, and growing every day
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Projects+that+combine+research%2C+software%2C+and+impact.;From+deep+learning+models+to+full-stack+applications.;Building+solutions+that+solve+real+problems." alt="Animated typing text" />
 </p>
-```
+
 
 ---
 
