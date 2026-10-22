@@ -172,7 +172,6 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 
 ## 🚀 Signature Projects
 
-```html
 <p align="center">
   <strong>💡 Building solutions that solve real problems</strong>
   <br/>
