@@ -149,44 +149,10 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 
 ---
 
-### 1️⃣ 🛒 ShopSphere — E-Commerce Platform
+### 1️⃣ 📈 Stock Price Prediction AI
 
 <p>
-  <img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="E-commerce"/>
-  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=for-the-badge" alt="In development"/>
-</p>
-
-A modern online shopping application for product discovery and shopping workflows.
-
-**🛠️ Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-**✨ Key Features**
-- 🛍️ Product browsing and product details
-- ❤️ Wishlist and cart workflows
-- 📦 Order history and order management
-- 💳 Payment integration development
-- 📱 Responsive user interface
-
-<p>
-  <a href="https://mellifluous-halva-739bcc.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
-  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
-</p>
-
----
-
-### 2️⃣ 📈 Stock Price Prediction AI
-
-<p>
-  <img src="https://img.shields.io/badge/PROJECT-MACHINE_LEARNING-8A2BE2?style=for-the-badge" alt="Machine learning"/>
+  <img src="https://img.shields.io/badge/PROJECT-MACHINE_LEARNING-8A2BE2?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/MODEL-RANDOM_FOREST-228B22?style=for-the-badge" alt="Random Forest"/>
 </p>
 
@@ -212,44 +178,14 @@ A machine-learning application for analyzing historical stock data, generating p
 
 <p>
   <img src="https://img.shields.io/badge/DEMO-LOCAL_DEPLOYMENT-grey?style=for-the-badge" alt="Local deployment"/>
-  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+  <a href="https://github.com/Iamshivk08?tab=repositories">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/>
+  </a>
 </p>
 
 ---
 
-### 3️⃣ 🛡️ StegoScan — Android APK Steganalysis
-
-<p>
-  <img src="https://img.shields.io/badge/PROJECT-CYBERSECURITY-005571?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/TYPE-FINAL_YEAR_PROJECT-0A66C2?style=for-the-badge" alt="Final-year project"/>
-</p>
-
-A cybersecurity capstone focused on detecting potential hidden data in Android application assets using steganalysis techniques.
-
-**🛠️ Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/LSB_ANALYSIS-6A5ACD?style=for-the-badge" alt="LSB analysis"/>
-  <img src="https://img.shields.io/badge/CHI--SQUARE-795548?style=for-the-badge" alt="Chi-square analysis"/>
-  <img src="https://img.shields.io/badge/ANDROID_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK"/>
-</p>
-
-**✨ Key Features**
-- 📱 Android APK asset extraction
-- 🖼️ Image and audio analysis
-- 🔍 Least Significant Bit (LSB) analysis
-- 📊 Chi-square statistical analysis
-- 🧪 Evaluation using datasets and real APK samples
-
-<p>
-  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
-</p>
-
----
-
-### 4️⃣ 🌦️ Weather Forecast Application
+### 2️⃣ 🌦️ Weather Forecast Application
 
 A responsive weather application that retrieves weather information through a REST API.
 
@@ -269,36 +205,14 @@ A responsive weather application that retrieves weather information through a RE
 - 📱 Responsive interface
 
 <p>
-  <a href="https://candid-zuccutto-a7dbb1.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+  <a href="https://candid-zuccutto-a7dbb1.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/>
+  </a>
 </p>
 
 ---
 
-### 5️⃣ 🧮 Scientific Calculator
-
-A browser-based calculator supporting arithmetic and advanced mathematical operations.
-
-**🛠️ Technology Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-**✨ Key Features**
-- ➕ Arithmetic calculations
-- 📐 Scientific operations
-- 🖥️ Interactive calculator interface
-
-<p>
-  <a href="https://iamshivk08.github.io/Calculator-/get-started.html"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo"/></a>
-  <a href="https://github.com/Iamshivk08/Calculator-"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
-</p>
-
----
-
-### 6️⃣ 🏦 Bank Management System
+### 3️⃣ 🏦 Bank Management System
 
 A web-based banking interface for demonstrating common banking operations.
 
@@ -316,7 +230,15 @@ A web-based banking interface for demonstrating common banking operations.
 - 📱 Responsive web layout
 
 <p>
-  <a href="https://visionary-crisp-b2e25e.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+  <a href="https://visionary-crisp-b2e25e.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Learn. Build. Innovate. Repeat. 🚀</b>
 </p>
 
 ---
