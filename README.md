@@ -18,9 +18,16 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,spring,nodejs,fastapi,flask,postgres,mysql,git,github,vscode,idea&perline=9" alt="Tech stack icons"/>
-</p>
+| Category | Technologies |
+|---|---|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java, Python, C, JavaScript"/> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, Vite"/> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask" alt="Spring Boot, Node.js, FastAPI, Flask"/> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL"/> |
+| 🤖 **Machine Learning** | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" alt="Python, Scikit-learn, TensorFlow"/> |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman"/> |
+
+
 
 ### 🚀 Featured Projects
 
@@ -32,12 +39,7 @@
 | 📈 Stock Price Prediction AI | Python · Random Forest · FastAPI · Streamlit |
 | 🛡️ StegoScan | Android APK Steganalysis |
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iamshivk08&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
