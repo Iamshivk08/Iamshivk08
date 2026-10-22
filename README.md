@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Bala Siva Katam
+<!-- ANIMATED HERO INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=Bala+Siva+Katam" alt="Bala Siva Katam"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+Development+Enthusiast;Machine+Learning+Explorer;DSA+%7C+Problem+Solver" alt="Animated intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+Spring+Boot;Backend+Developer+%7C+Building+for+the+Web;Machine+Learning+%7C+Problem+Solving" alt="Animated developer introduction"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:64748b,100:94a3b8&height=90&section=header" width="100%" alt="Decorative wave"/>
 </p>
 
 <p align="center">
