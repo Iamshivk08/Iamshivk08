@@ -141,32 +141,35 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 </tr>
 </table>
 
-<h2 align="center">🚀 Signature Projects</h2>
+## 🚀 Signature Projects
 
 <p align="center">
-<code>Turning ideas into practical software applications.</code>
+  <code>Building practical applications with code, creativity, and innovation.</code>
 </p>
 
 ---
 
 ### 1️⃣ 🛒 ShopSphere — E-Commerce Platform
 
-<p align="center">
-<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-181717?style=for-the-badge&logo=react" alt="E-commerce"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" alt="In development"/>
+<p>
+  <img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-181717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="E-commerce"/>
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=for-the-badge" alt="In development"/>
 </p>
 
-**A modern online shopping application** designed for product discovery and shopping workflows.
+A modern online shopping application for product discovery and shopping workflows.
 
-**Technology stack**
+**🛠️ Technology Stack**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-**✨ Key features**
-
+**✨ Key Features**
 - 🛍️ Product browsing and product details
 - ❤️ Wishlist and cart workflows
 - 📦 Order history and order management
@@ -174,68 +177,74 @@ Hi! I'm **Bala Siva Katam**, a B.Tech Computer Science student passionate about 
 - 📱 Responsive user interface
 
 <p>
-<a href="https://mellifluous-halva-739bcc.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
-<a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+  <a href="https://mellifluous-halva-739bcc.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 </p>
 
 ---
 
 ### 2️⃣ 📈 Stock Price Prediction AI
 
-<p align="center">
-<img src="https://img.shields.io/badge/PROJECT-MACHINE_LEARNING-8A2BE2?style=for-the-badge" alt="Machine learning"/>
-<img src="https://img.shields.io/badge/MODEL-RANDOM_FOREST-228B22?style=for-the-badge" alt="Random Forest"/>
+<p>
+  <img src="https://img.shields.io/badge/PROJECT-MACHINE_LEARNING-8A2BE2?style=for-the-badge" alt="Machine learning"/>
+  <img src="https://img.shields.io/badge/MODEL-RANDOM_FOREST-228B22?style=for-the-badge" alt="Random Forest"/>
 </p>
 
-A machine-learning project that analyzes historical stock data, evaluates a prediction model, and displays predictions through an interactive dashboard.
+A machine-learning application for analyzing historical stock data, generating predictions, and evaluating model performance.
 
-**Technology stack**
+**🛠️ Technology Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
 
-**✨ Key features**
-
+**✨ Key Features**
 - 📊 Historical stock data analysis
 - 🤖 Random Forest prediction model
-- 📉 Model evaluation using MAE, RMSE and R²
+- 📉 MAE, RMSE, and R² model evaluation
 - 🔌 FastAPI prediction endpoint
 - 📈 Interactive Streamlit dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Demo-Local%20Deployment-grey?style=for-the-badge" alt="Local demo"/>
-<a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+  <img src="https://img.shields.io/badge/DEMO-LOCAL_DEPLOYMENT-grey?style=for-the-badge" alt="Local deployment"/>
+  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 </p>
 
 ---
 
 ### 3️⃣ 🛡️ StegoScan — Android APK Steganalysis
 
-<p align="center">
-<img src="https://img.shields.io/badge/PROJECT-CYBERSECURITY-005571?style=for-the-badge" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/TYPE-FINAL_YEAR_PROJECT-blue?style=for-the-badge" alt="Final-year project"/>
+<p>
+  <img src="https://img.shields.io/badge/PROJECT-CYBERSECURITY-005571?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/TYPE-FINAL_YEAR_PROJECT-0A66C2?style=for-the-badge" alt="Final-year project"/>
 </p>
 
-A cybersecurity capstone focused on analyzing Android application assets to identify potential hidden data using steganalysis techniques.
+A cybersecurity capstone focused on detecting potential hidden data in Android application assets using steganalysis techniques.
 
-**Technology stack**
+**🛠️ Technology Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Cybersecurity-222222?style=flat-square&logo=owasp&logoColor=white" alt="Cybersecurity"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/LSB_ANALYSIS-6A5ACD?style=for-the-badge" alt="LSB analysis"/>
+  <img src="https://img.shields.io/badge/CHI--SQUARE-795548?style=for-the-badge" alt="Chi-square analysis"/>
+  <img src="https://img.shields.io/badge/ANDROID_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android APK"/>
+</p>
 
-**✨ Key features**
-
+**✨ Key Features**
 - 📱 Android APK asset extraction
 - 🖼️ Image and audio analysis
 - 🔍 Least Significant Bit (LSB) analysis
 - 📊 Chi-square statistical analysis
-- 🧪 Detection evaluation using datasets and APK samples
+- 🧪 Evaluation using datasets and real APK samples
 
 <p>
-<a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://github.com/Iamshivk08?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 </p>
 
 ---
@@ -244,20 +253,24 @@ A cybersecurity capstone focused on analyzing Android application assets to iden
 
 A responsive weather application that retrieves weather information through a REST API.
 
-**Technology stack**
+**🛠️ Technology Stack**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+</p>
 
-**✨ Key features**
-
+**✨ Key Features**
 - 🌍 Location-based weather lookup
 - 🌡️ Weather information display
 - 🔄 API-driven data retrieval
 - 📱 Responsive interface
 
-<a href="https://candid-zuccutto-a7dbb1.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+<p>
+  <a href="https://candid-zuccutto-a7dbb1.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+</p>
 
 ---
 
@@ -265,26 +278,57 @@ A responsive weather application that retrieves weather information through a RE
 
 A browser-based calculator supporting arithmetic and advanced mathematical operations.
 
-**Technology stack**
+**🛠️ Technology Stack**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-**✨ Key features**
-
+**✨ Key Features**
 - ➕ Arithmetic calculations
 - 📐 Scientific operations
 - 🖥️ Interactive calculator interface
 
-<a href="https://iamshivk08.github.io/Calculator-/get-started.html"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo"/></a>
+<p>
+  <a href="https://iamshivk08.github.io/Calculator-/get-started.html"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo"/></a>
+  <a href="https://github.com/Iamshivk08/Calculator-"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+</p>
+
+---
+
+### 6️⃣ 🏦 Bank Management System
+
+A web-based banking interface for demonstrating common banking operations.
+
+**🛠️ Technology Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**✨ Key Features**
+- 🏦 Interactive banking interface
+- 💰 Banking operation workflows
+- 📱 Responsive web layout
+
+<p>
+  <a href="https://visionary-crisp-b2e25e.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+</p>
 
 ---
 
 <p align="center">
-<a href="https://github.com/Iamshivk08?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
+  <a href="https://github.com/Iamshivk08?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>⚡ Learn continuously. Build consistently. Improve every day.</i>
 </p>
 
 <h2 align="center">📜 Certifications & Professional Learning</h2>
