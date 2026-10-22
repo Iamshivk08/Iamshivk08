@@ -287,6 +287,90 @@ A browser-based calculator supporting arithmetic and advanced mathematical opera
 </a>
 </p>
 
+<h2 align="center">📜 Certifications & Professional Learning</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Certification-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL"/>
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
+<img src="https://img.shields.io/badge/L%26T%20EduTech-Cloud%20Computing-00529B?style=for-the-badge" alt="Cloud Computing"/>
+<img src="https://img.shields.io/badge/AICTE-Virtual%20Internship-blue?style=for-the-badge" alt="AICTE"/>
+<img src="https://img.shields.io/badge/SmartBridge-Technical%20Learning-orange?style=for-the-badge" alt="SmartBridge"/>
+<img src="https://img.shields.io/badge/Adobe-University%20Hackathon-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Hackathon"/>
+<img src="https://img.shields.io/badge/Innovatex-Hackathon-8A2BE2?style=for-the-badge" alt="Innovatex Hackathon"/>
+<img src="https://img.shields.io/badge/Internship-One%20Month-0A66C2?style=for-the-badge" alt="One-month internship"/>
+</p>
+
+---
+
+### 🎯 Learning Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Programming & Databases**
+- SQL and database fundamentals
+- Java programming
+- Problem-solving practice
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Emerging Technologies**
+- Cloud computing
+- ServiceNow platform exposure
+- Technical workshops and hackathons
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>📚 Continuously learning, building, and improving.</i>
+</p>
+
+<h2 align="center">📜 Certifications & Professional Learning</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HackerRank-SQL%20Certification-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL"/>
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
+<img src="https://img.shields.io/badge/L%26T%20EduTech-Cloud%20Computing-00529B?style=for-the-badge" alt="Cloud Computing"/>
+<img src="https://img.shields.io/badge/AICTE-Virtual%20Internship-blue?style=for-the-badge" alt="AICTE"/>
+<img src="https://img.shields.io/badge/SmartBridge-Technical%20Learning-orange?style=for-the-badge" alt="SmartBridge"/>
+<img src="https://img.shields.io/badge/Adobe-University%20Hackathon-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Hackathon"/>
+<img src="https://img.shields.io/badge/Innovatex-Hackathon-8A2BE2?style=for-the-badge" alt="Innovatex Hackathon"/>
+<img src="https://img.shields.io/badge/Internship-One%20Month-0A66C2?style=for-the-badge" alt="One-month internship"/>
+</p>
+
+---
+
+### 🎯 Learning Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Programming & Databases**
+- SQL and database fundamentals
+- Java programming
+- Problem-solving practice
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Emerging Technologies**
+- Cloud computing
+- ServiceNow platform exposure
+- Technical workshops and hackathons
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<i>📚 Continuously learning, building, and improving.</i>
+</p>
+
 <h2 align="center">🏆 Achievement Wall</h2>
 
 <p align="center">
