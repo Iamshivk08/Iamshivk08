@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/u/iam_shivk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.hackerrank.com/profile/shivkatam08"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
-<h2 align="center">👨‍💻 The Developer Behind The Code</h2>
+<h2 align="center">👨‍💻 A Developer with a Vision</h2>
 
 <table>
 <tr>
