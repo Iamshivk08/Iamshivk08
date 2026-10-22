@@ -1,114 +1,257 @@
+# 👨‍💻 Bala Siva Katam | Java Full Stack Developer
 
-<!-- PROFILE LINKS -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Backend+Development+Enthusiast;Machine+Learning+Explorer;DSA+%7C+Problem+Solving;Building+Projects+That+Solve+Problems" alt="Typing SVG" />
+</p>
 
+<p align="center">
   <a href="mailto:shivkatam08@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://github.com/Iamshivk08">
-    <img
-      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com/in/bala-siva-katam-779129314/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://leetcode.com/u/iam_shivk/">
-    <img
-      src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    >
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-
   <a href="https://www.hackerrank.com/profile/shivkatam08">
-    <img
-      src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
-      alt="HackerRank"
-    >
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-
 </p>
-<!-- HERO -->
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science and Engineering student at **Mohan Babu University, Tirupati**, passionate about Java development, full-stack engineering, problem-solving, and applied machine learning.
+
+I enjoy turning ideas into practical applications, exploring backend architecture, and continuously improving my programming skills through projects and Data Structures & Algorithms.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering — graduating in 2027.
+- 💻 Interested in Java, backend development, and full-stack engineering.
+- ⚙️ Exploring Spring Boot, REST APIs, databases, and authentication.
+- 🤖 Building machine-learning applications using Python.
+- 🧠 Practicing DSA and competitive programming.
+- 🎯 Looking for fresher opportunities, internships, and collaborative projects.
+
+**Current focus:** Strengthening Java, DSA, Spring Boot, SQL, and real-world software development.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming languages"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask" alt="Backend technologies"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
+</p>
+
+**Also familiar with:** Oracle Database and SQL.
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" alt="Machine learning tools"/>
+</p>
+
+- Data preprocessing and exploratory analysis
+- Regression and classification
+- Random Forest
+- Model evaluation using MAE, MSE, RMSE, and R²
+- Model serving and interactive dashboards with FastAPI and Streamlit
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" alt="Development tools"/>
+</p>
+
+*Docker and some backend tools are part of my learning journey; experience varies by project.*
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/hero.svg"
-    alt="Bala Siva Katam - Java Full Stack Developer"
-    width="900"
-  >
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iamshivk08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshivk08&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
-<!-- DASHBOARD -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/id-dashboard.svg"
-    alt="Bala Siva Katam Developer Dashboard"
-    width="900"
-  >
+  <img width="70%" src="https://streak-stats.demolab.com?user=Iamshivk08&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-
-<!-- TECH STACK -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/stack.svg"
-    alt="Bala Siva Katam Tech Stack"
-    width="900"
-  >
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 </p>
 
+---
 
-<!-- ABOUT -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/about-life.svg"
-    alt="About Bala Siva Katam"
-    width="900"
-  >
-</p>
-
-
-## 🎌 Featured builds
 ## 🚀 Featured Projects
 
-| Project                                                                                | What it is                                                                                                                         | Stack                                                             |                               Live Demo                              |
-| :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------------: |
-| [**Portfolio**](https://superb-phoenix-47fa16.netlify.app/)                            | Personal developer portfolio showcasing projects, skills, experience, and achievements                                             | `HTML` `CSS` `JavaScript`                                         |         [🔗 View](https://superb-phoenix-47fa16.netlify.app/)        |
-| [**Weather Forecast**](https://candid-zuccutto-a7dbb1.netlify.app/)                    | Real-time weather forecasting application with location-based weather information                                                  | `HTML` `CSS` `JavaScript` `REST API`                              |        [🔗 View](https://candid-zuccutto-a7dbb1.netlify.app/)        |
-| [**E-Commerce**](https://mellifluous-halva-739bcc.netlify.app/)                        | Responsive e-commerce web application with product browsing and shopping functionality                                             | `React` `Vite` `JavaScript` `CSS`                                 |       [🔗 View](https://mellifluous-halva-739bcc.netlify.app/)       |
-| [**Scientific Calculator**](https://iamshivk08.github.io/Calculator-/get-started.html) | Scientific calculator supporting arithmetic and advanced mathematical operations                                                   | `HTML` `CSS` `JavaScript`                                         | [🔗 View](https://iamshivk08.github.io/Calculator-/get-started.html) |
-| [**Bank Management System**](https://visionary-crisp-b2e25e.netlify.app/)              | Web-based banking management system for handling banking operations through an interactive interface                               | `HTML` `CSS` `JavaScript`                                         |        [🔗 View](https://visionary-crisp-b2e25e.netlify.app/)        |
-| **Stock Price Prediction AI**                                                          | Machine-learning application for stock price prediction with model training, evaluation, prediction API, and interactive dashboard | `Python` `Machine Learning` `Random Forest` `FastAPI` `Streamlit` |                               🛠️ Local                              |
+### 1. 🛒 E-Commerce Web Application
 
+A responsive online shopping application focused on product discovery and shopping experiences.
 
-## 🌃 My contribution city
+- Product browsing and shopping interface
+- Responsive layouts for different screen sizes
+- React-based frontend
+- UI and shopping workflow development
 
-*Every commit builds another tower — rebuilt automatically every day.*
+**Tech stack:** React · Vite · JavaScript · CSS
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+🔗 **[Live Demo](https://mellifluous-halva-739bcc.netlify.app/)**
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+### 2. 📈 Stock Price Prediction AI
 
+A machine-learning application for predicting stock prices using historical market data.
 
-**Always learning, always building.** 💜
+- Historical stock data processing
+- Random Forest regression
+- Model evaluation and prediction workflows
+- FastAPI prediction endpoint
+- Streamlit interactive dashboard
 
-</div>
+**Tech stack:** Python · Pandas · Scikit-learn · FastAPI · Streamlit
 
-<!-- CONNECT -->
+**Status:** Local development project.
+
+### 3. 🛡️ StegoScan — Android APK Steganalysis
+
+A cybersecurity capstone project focused on analyzing Android APK assets for potential hidden content and suspicious patterns.
+
+- Extracting image and audio assets from APK files
+- Exploring Least Significant Bit (LSB) steganalysis
+- Chi-square analysis for investigating hidden data
+- FastAPI-based backend
+- Dataset-based evaluation, including false-positive analysis
+
+**Tech stack:** Python · FastAPI · Digital Steganalysis · Cybersecurity
+
+**Status:** Academic capstone project in development.
+
+### 4. 🌦️ Weather Forecast Application
+
+A weather application that retrieves location-based weather information using an external API.
+
+- Weather information retrieval
+- API integration
+- Dynamic user interface
+- Responsive frontend
+
+**Tech stack:** HTML · CSS · JavaScript · REST API
+
+🔗 **[Live Demo](https://candid-zuccutto-a7dbb1.netlify.app/)**
+
+### 5. 🏦 Bank Management Interface
+
+A web-based banking management project with an interactive interface for banking-related operations.
+
+**Tech stack:** HTML · CSS · JavaScript
+
+🔗 **[Live Demo](https://visionary-crisp-b2e25e.netlify.app/)**
+
+### 6. 🧮 Scientific Calculator
+
+An interactive calculator supporting arithmetic and advanced mathematical operations.
+
+**Tech stack:** HTML · CSS · JavaScript
+
+🔗 **[Live Demo](https://iamshivk08.github.io/Calculator-/get-started.html)**
+
+### 🌐 More Projects
+
+- **Developer Portfolio:** [Explore portfolio](https://superb-phoenix-47fa16.netlify.app/)
+- **GitHub Repositories:** [Browse source code](https://github.com/Iamshivk08?tab=repositories)
+
+---
+
+## 🧠 Problem-Solving Profiles
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Iamshivk08/Iamshivk08/main/connect.svg"
-    alt="Connect With Bala Siva Katam"
-    width="900"
-  >
+  <a href="https://leetcode.com/u/iam_shivk/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/shivkatam08">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20%26%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
+My problem-solving focus includes:
+
+- Arrays and strings
+- Two-pointer techniques
+- Hashing and frequency counting
+- Searching and sorting
+- SQL queries
+- Core Java and object-oriented programming
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java and object-oriented design
+- DSA patterns for technical interviews
+- Spring Boot REST API development
+- JPA, Hibernate, and relational databases
+- Authentication and authorization with JWT
+- Software engineering practices and deployment
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+- Java Developer — Fresher
+- Backend Developer — Java / Spring Boot
+- Full Stack Developer
+- Software Engineer
+- Python / Machine Learning Intern
+
+I welcome opportunities to learn from experienced developers, contribute to meaningful projects, and collaborate with people who enjoy building useful software.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:shivkatam08@gmail.com">Email</a> •
+  <a href="https://github.com/Iamshivk08">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bala-siva-katam-779129314/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/iam_shivk/">LeetCode</a> •
+  <a href="https://www.hackerrank.com/profile/shivkatam08">HackerRank</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iamshivk08&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>"Consistency builds skills. Curiosity builds possibilities. Code turns ideas into reality."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider starring the repositories!
+</p>
