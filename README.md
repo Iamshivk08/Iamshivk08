@@ -259,19 +259,9 @@ A web-based banking interface for demonstrating common banking operations.
 <i>📚 Continuously learning, building, and improving.</i>
 </p>
 
-<h2 align="center">🏆 Achievement Wall</h2>
+My personal developer portfolio showcasing my technical skills, projects, internship experience, certifications, and achievements.
 
-<p align="center">
-<img src="https://img.shields.io/badge/FOCUS-JAVA%20DEVELOPMENT-181717?style=for-the-badge" alt="Java Development"/>
-<img src="https://img.shields.io/badge/FOCUS-PROBLEM%20SOLVING-0A66C2?style=for-the-badge" alt="Problem Solving"/>
-<img src="https://img.shields.io/badge/PROJECTS-FULL%20STACK-2EA44F?style=for-the-badge" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-8A2BE2?style=for-the-badge" alt="Machine Learning"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Iamshivk08&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub trophies"/>
-</p>
-
+  🌐 **Live Website:** https://bala-siva-naidu-katam.nexdrives.cloud/
 
 <h2 align="center">🌐 Connect With Me</h2>
 
