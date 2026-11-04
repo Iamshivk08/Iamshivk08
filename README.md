@@ -261,7 +261,7 @@ A web-based banking interface for demonstrating common banking operations.
 
 My personal developer portfolio showcasing my technical skills, projects, internship experience, certifications, and achievements.
 
-  🌐 **Live Website:** https://bala-siva-naidu-katam.nexdrives.cloud/
+  🌐 **Live Website:** [https://bala-siva-naidu-katam.nexdrives.cloud/](https://bala-siva-naidu-katam.nexdrives.cloud/)
 
 <h2 align="center">🌐 Connect With Me</h2>
 
